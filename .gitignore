@@ -1,0 +1,6 @@
+.venv/
+venv/
+*.pyc
+__pycache__/
+.idea/
+xyz_molecules.db
